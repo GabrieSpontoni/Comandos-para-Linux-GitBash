@@ -1,4 +1,4 @@
-## Alguns comandos do terminal do linux :computer:
+## Alguns comandos do terminal do linux:computer:
 
 
 
@@ -9,3 +9,11 @@
 - **touch** **teste.txt**: cria novo arquivo teste.txt
 
 - **mv lasanha.md comandos_linux.md**: renomeia a pasta "lasanha.md" para "comandos_linux.md"
+
+## Comandos uteis utilizando o GIT BASH 
+
+- **git config --list**: mostra os dados configurados do GIT7
+-  **git commit -m "adiciona README"**: realiza um commit com o que foi feito "adiciona README"**
+- **git status**: status
+- **git init**: cria um repositório na pasta atual
+- **git add** **comandos_linux/comandos_linux.md**: adiciona os arquivos modificados "comandos_linux/comandos_linux.md" para conseguirem ser commitados
