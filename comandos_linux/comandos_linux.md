@@ -12,7 +12,8 @@
 
 ## Comandos uteis utilizando o GIT BASH 
 
-- **git config --list**: mostra os dados configurados do GIT7
+- **git config --list**: mostra os dados configurados do GIT
+- **git config --global user.name "gabriespontoni"**: muda nome do usuario para ""gabriespontoni
 -  **git commit -m "adiciona README"**: realiza um commit com o que foi feito "adiciona README"**
 - **git status**: status
 - **git init**: cria um repositório na pasta atual
